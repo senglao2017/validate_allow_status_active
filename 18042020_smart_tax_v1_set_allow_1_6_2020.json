@@ -1,11 +1,7 @@
 {
-  "status":"online",
-  "locked_host_ip_address":":::1", "_comment1":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
-  "locked_host_domain":"khavy_lao.localhost", "_comment2":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'",
-  "locked_client_mac_address":"00-20-10-2A-03-0A", "_comment3":"ຖ້າຕ້ອງການບັງຄັບ Func(ສ່ວນນີ້) ໃຫ້ເປັນ Online ໃຫ້ໃສ່ 'unlocked_active_is_online'", 
-   "_comment3_1":"ເອົາໄວ້ Lock ໃຫ້ເຄື່ອງ ຝັ່ງ Clients ຈໍາກັດເຂົ້າໃຊ້ໄດ້ພຽງແຕ່ 1 ເຄື່ອງ 1 MAC Addr ເທົ່ານັ້ນ", 
-  "expired_license_date":"2021-02-01",
-  "message":"mysql_class_pattern", 
-  "description":"khavy_lao.localhost , ::1"
+  "status":"online", 
+  "thread_sleep":1000, 
+  "expired_license_date":"2021-02-01", 
+  "description":""
 }
 
